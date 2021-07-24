@@ -14,7 +14,7 @@
 <p>Hi, I'm <a href="https://github.com/chayandasgupta" rel="nofollow">Chayan Das Gupta</a>, a Full Stack Developer <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> from Bangladesh.Beside's programming, I enjoy traveling & photography.</p>
 <br>
 <p><strong>Talking About Personal Stuffs:</strong></p>
-- 🔭 I’m currently working on something cool😊;
-- 🌱 I’m currently learning Vuejs;
-- 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a>
+- 🔭 I’m currently working on something cool😊;<br>
+- 🌱 I’m currently learning Vuejs;<br>
+- 💬 Ask me about anything, I am happy to help;<br>
+- 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a><br>

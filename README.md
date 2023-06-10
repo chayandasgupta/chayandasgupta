@@ -11,7 +11,7 @@
 </a>
 </p>
 <br>
-<p>Hi, I'm <a href="https://github.com/chayandasgupta" rel="nofollow">Chayan Das Gupta</a>, a Full Stack Developer <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> from Bangladesh.Beside's programming, I enjoy traveling & photography.</p>
+<p>Hi, I'm <a href="https://github.com/chayandasgupta" rel="nofollow">Chayan Das Gupta</a>, a Web Application Developer <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> from Bangladesh.Beside's programming, I enjoy traveling & photography.</p>
 <br>
 <p><strong>Talking About Personal Stuffs:</strong></p>
 - 🔭 I’m currently working on something cool😊;<br>

@@ -20,4 +20,3 @@
 - 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a><br><br>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chayandasgupta&show_icons=true)<br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chayandasgupta) 

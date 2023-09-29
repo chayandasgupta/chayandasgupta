@@ -1,4 +1,4 @@
-<h1 align="center" theme="react">Hi 👋, I'm Chayan</h1>
+<h1 align="center" color="red">Hi 👋, I'm Chayan</h1>
 <h3 align="center">A passionate web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayandasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="chayandasgupta" /> </p>

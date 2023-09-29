@@ -1,18 +1,22 @@
-<h1 align="center">Hi 👋, I'm Chayan</h1>
-<h3 align="center">A passionate web developer from Bangladesh</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chayandasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="chayandasgupta" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+### Hey 👋 I'm Chayan
+<p>
+  <a href="https://www.linkedin.com/in/chayan-das-gupta-a8177017b/" rel="nofollow">
+ <img          src="https://camo.githubusercontent.com/a0182f84f3e188a2e03f07520e29be1eccdd96e4182adcb829c8f1633354bba6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d323132313231266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d666666666666" alt="LinkedIn Connect" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=212121&amp;logo=linkedin&amp;logoColor=ffffff" style="max-width:100%;">
+  </a>
+<a href="https://www.facebook.com/kopil05/" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/47b65ed813d3718fef3d9836c912030ad840e4687c9ea6ef5615f4bc25dee989/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d436f6e6e6563742d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d313937366432266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d666666666666" alt="Facebook Follow" data-canonical-src="https://img.shields.io/badge/%20-Connect-black?color=14171A&amp;labelColor=1976d2&amp;logo=facebook&amp;logoColor=ffffff" style="max-width:100%;">
+</a>
+<a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">
+<img src="https://camo.githubusercontent.com/e31e88a64ddd9f4d196153f4c5b24177d0f83a94595b5a9eb2886a43e2685fb7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2532302d53656e642532304d61696c2d626c61636b3f636f6c6f723d313431373141266c6162656c436f6c6f723d656635333530266c6f676f3d676d61696c266c6f676f436f6c6f723d666666666666" alt="Gmail" data-canonical-src="https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&amp;labelColor=ef5350&amp;logo=gmail&amp;logoColor=ffffff" style="max-width:100%;">
+</a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/chayandasgupta"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="chayandasgupta" /></a><a href="https://ko-fi.com/chayandasgupta"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="chayandasgupta" /></a></p><br><br>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayandasgupta&show_icons=true&locale=en" alt="chayandasgupta" /></p>
+<br>
+<p>Hi, I'm <a href="https://github.com/chayandasgupta" rel="nofollow">Chayan Das Gupta</a>, a Web Application Developer <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> from Bangladesh.Beside's programming, I enjoy traveling & photography.</p>
+<br>
+<p><strong>Talking About Personal Stuffs:</strong></p>
+- 🔭 I’m currently working on something cool😊;<br>
+- 🌱 I’m currently learning Vuejs;<br>
+- 💬 Ask me about anything, I am happy to help;<br>
+- 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayandasgupta&show_icons=true&locale=en&layout=compact" alt="chayandasgupta" /></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=chayandasgupta&show_icons=true)<br>

@@ -1,3 +1,4 @@
+<p align="center">
 ### Hey 👋 I'm Chayan
 <p>
     <a href="https://www.linkedin.com/in/chayan-das-gupta-a8177017b/" rel="nofollow">
@@ -26,4 +27,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chayandasgupta&show_icons=true&locale=en&layout=compact" alt="chayandasgupta" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chayandasgupta&show_icons=true&locale=en" alt="chayandasgupta" /></p>
+    
+</p>
 

@@ -17,6 +17,6 @@
 - 🔭 I’m currently working on something cool😊;<br>
 - 🌱 I’m currently learning Vuejs;<br>
 - 💬 Ask me about anything, I am happy to help;<br>
-- 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a><br>
-<br>
+- 📫 How to reach me: <a href="mailto:chayandas285178@gmail.com?subject=From%20GitHub&amp;body=Hi,%20there.%20Found%20you%20from%20GitHub.">@chayandasgupta</a><br><br>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chayandasgupta&show_icons=true) 

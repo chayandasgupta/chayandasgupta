@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chayandasgupta&label=Profile%20views&color=0e75b6&style=flat" alt="chayandasgupta" /> </p>
 
-- 🔭 I’m currently working on [a B2B e-commerce solution utilizing Next.js](https://nagbak.com/)
+- 🔭 I’m currently working on [a B2B e-commerce solution utilizing Next.js](https://nagbak.com/) & [learning management system utilizing Next.js]([https://nagbak.com/](https://www.edufutureit.com/))
 
 - 🌱 I’m currently learning **Next JS & Prisma**
 
